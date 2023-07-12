@@ -21,13 +21,9 @@ const About = () => {
                      alt="" />
             </div>
             <div  data-aos="fade-right" data-aos-delay="100" className={`${styles["aboutDescription"]} flex flex-col gap`}>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et, architecto omnis nulla id molestias
-                    odit nobis? Provident consectetur qui doloremque quibusdam laborum quas impedit vitae perspiciatis?
-                    Veritatis neque animi omnis.</p>
+                <p>Robotics and Aviation club is the official club comprised and managed by the students of Shri Ramdeobaba College of Engineering and Management Nagpur. We are a dedicated group of undergrads with the primary objective of fostering a deep passion for robotics and aviation.</p>
                 <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic dolor reprehenderit explicabo voluptas
-                    sit eaque sequi ullam nostrum animi aliquid eum rerum, fuga cupiditate quis officia quia quasi nam
-                    voluptate quod mollitia? Soluta est ducimus omnis illum inventore doloremque voluptates.
+                    Through a diverse range of activities, we strive to inspire innovation, encourage collaboration, and facilitate hands-on learning experiences.
                 </p>
             </div>
         </div>
