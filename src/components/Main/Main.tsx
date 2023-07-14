@@ -12,8 +12,7 @@ const Main = () => {
             <p className={styles["homeTitleWord"]}>Aviation</p>
         </header>
         <p data-aos="flip-right" className={styles["subheading"]}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, perferendis, veritatis corporis debitis
-            beatae tenetur quaerat, soluta pariatu
+            Adding wings to thoughts
         </p>
         <div className={`${styles["home_button"]} flex flex-center`}>
             <Link to={'/recruitment'} >
